@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// mainline commens.. oh well..
+<<<<<<< HEAD
+=======
+// mainline commens.. but hotfix3
+>>>>>>> hotfix3
 void    calling_new_feature ( void )
 {
         printf("new feature .. \n");
