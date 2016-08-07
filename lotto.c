@@ -4,7 +4,7 @@
 // mainline commens.. but hotfix3
 void    calling_new_feature ( void )
 {
-        printf("new feature .. \n");
+        printf("new feature .. with hotfix3\n");
 }
 void    calling_lotto_function (void)
 {
