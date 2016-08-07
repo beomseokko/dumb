@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// mainline commens..
+// mainline commens.. oh well..
 void    calling_new_feature ( void )
 {
         printf("new feature .. \n");
