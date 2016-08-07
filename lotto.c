@@ -6,7 +6,7 @@ void    calling_lotto_function (void)
 
         for ( int i = 0 ; i < 10 ; i++)
         {
-            printf("[%2d] = %d\n", random());
+            printf("[%2d] = %d\n", i, random());
         }
 }
 int main(int argc, char *argv[])
