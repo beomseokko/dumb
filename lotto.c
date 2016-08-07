@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void    calling_new_feature ( void )
+{
+        printf("new feature .. \n");
+}
 void    calling_lotto_function (void)
 {
 
@@ -13,5 +17,6 @@ int main(int argc, char *argv[])
 {
         printf("Lotto main.. \n");
         calling_lotto_function();
+        calling_new_feature();
         return 0;
 }
